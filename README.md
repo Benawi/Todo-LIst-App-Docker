@@ -141,7 +141,7 @@ If you take a quick look at the Docker Dashboard, you should see your two contai
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/Benawi/Todo-LIst-App-Docker/issues), and feature requests are Ilcome!
+Contributions, [issues](https://github.com/Benawi/Todo-LIst-App-Docker/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
