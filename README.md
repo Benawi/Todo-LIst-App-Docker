@@ -89,15 +89,15 @@ Install project dependencies with:
   docker build -t getting-started .
   ```
   This command used the Dockerfile to build a new container image. You might have noticed that a lot of "layers" Ire downloaded. This is because I instructed the 
-   builder that I wanted to start from the node:18-alpine image. But, since I didn't have that on our machine, that image needed to be downloaded.
+   builder that I wanted to start from the `node:18-alpine image`. But, since I didn't have that on our machine, that image needed to be downloaded.
   
-  After the image was downloaded, I copied in our application and used yarn to install our application's dependencies. The CMD directive specifies the default 
+  After the image was downloaded, I copied it to our application and used yarn to install our application's dependencies. The `CMD` directive specifies the default 
   command to run when starting a container from this image.
   
-  Finally, the -t flag tags our image. Think of this simply as a human-readable name for the final image. Since I named the image getting-started, I can refer to 
+  Finally, the `-t` flag tags our image. Think of this simply as a human-readable name for the final image. Since I named the image getting-started, I can refer to 
   that image when I run a container.
   
-  The . at the end of the docker build command tells that Docker should look for the Dockerfile in the current directory.
+  The `.` at the end of the docker build command tells that Docker should look for the Dockerfile in the current directory.
 
 ### Starting an App Container
   Now that I have an image, let's run the application! To do so, I will use the docker run command (remember that from earlier?).
