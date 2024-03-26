@@ -107,7 +107,7 @@ Install project dependencies with:
   ```
   docker run -dp 3000:3000 getting-started
   ```
-Remember the -d and -p flags? I're running the new container in "detached" mode (in the background) and creating a mapping betIen the host's port 3000 to the container's port 3000. Without the port mapping, I wouldn't be able to access the application.
+Remember the `-d` and `-p` flags? I'm running the new container in `"detached"` mode (in the background) and creating a mapping between the host's port `3000` to the container's port 3000. Without the port mapping, I wouldn't be able to access the application.
 
 After a few seconds, open your Ib browser to [http://localhost:3000](http://localhost:3000). You should see our app!
 
@@ -116,7 +116,7 @@ Empty Todo List
 
 Go ahead and add an item or two and see that it works as you expect. You can mark items as complete and remove items. Your frontend is successfully storing items in the backend! Pretty quick and easy, huh?
 
-At this point, you should have a running todo list manager with a few items, all built by you! Now, let's make a few changes and learn about managing our containers.
+At this point, you should have a running to-do list manager with a few items, all built by you! Now, let's make a few changes and learn about managing our containers.
 
 If you take a quick look at the Docker Dashboard, you should see your two containers running now (this project and your freshly launched app container)!
 
