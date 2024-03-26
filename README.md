@@ -99,7 +99,7 @@ Install project dependencies with:
   
   The . at the end of the docker build command tells that Docker should look for the Dockerfile in the current directory.
 
-### Starting an App Container¶
+### Starting an App Container
   Now that I have an image, let's run the application! To do so, I will use the docker run command (remember that from earlier?).
   
   Start your container using the docker run command and specify the name of the image I just created:
