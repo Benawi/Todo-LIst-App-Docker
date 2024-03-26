@@ -42,12 +42,8 @@ node Js
 </ul>
 
 ###  Key Features <a name="key-features"></a>
-
-![image](https://github.com/Benawi/Todo-LIst-App-Docker/assets/21217148/b091b77c-1d6f-4e27-9350-b02e405bffe9)
-
-
+![image](https://github.com/Benawi/Todo-LIst-App-Docker/assets/21217148/09511e0b-a3c4-4bb8-bfb8-235fe782a31d)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
