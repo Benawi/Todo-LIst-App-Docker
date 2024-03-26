@@ -109,7 +109,7 @@ Install project dependencies with:
   ```
 Remember the -d and -p flags? I're running the new container in "detached" mode (in the background) and creating a mapping betIen the host's port 3000 to the container's port 3000. Without the port mapping, I wouldn't be able to access the application.
 
-After a few seconds, open your Ib browser to http://localhost:3000. You should see our app!
+After a few seconds, open your Ib browser to [http://localhost:3000](http://localhost:3000). You should see our app!
 
 Empty Todo List
 ![image](https://github.com/Benawi/Todo-LIst-App-Docker/assets/21217148/8cdd64a2-c762-468f-8eea-35ca8ee3e357)
