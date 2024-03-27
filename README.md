@@ -134,7 +134,6 @@ If you take a quick look at the Docker Dashboard, you should see your two contai
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ]  Integration specs for Views and fixing n+1 problems.
 - [ ]  API documentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
