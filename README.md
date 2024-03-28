@@ -51,7 +51,7 @@ node Js
 
 In order to run this project you need:
 - First of all, make sure you have both `docker desktop` & `node` installed on your machine
- (else You can install `node` just with this simple command  ```yarn install```)
+ (else You can install `node` just with this simple command  ``` yarn install```)
 ### Setup
 
 Clone this repository to your desired folder:
