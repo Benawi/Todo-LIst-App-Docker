@@ -83,7 +83,7 @@ Install project dependencies with:
   Please check that the file Dockerfile has no file extension like .txt. Some editors may append this file extension automatically and this would result in an 
   error in the next step.
   
-  2. If you haven't already done so, open a terminal and go to the app directory with the Dockerfile. Now build the container image using the docker build command.
+  2. If you haven't already done so, open a terminal and go to the app directory with the Dockerfile. Now build the container image using the docker build comman
   
   ```
   docker build -t getting-started .
