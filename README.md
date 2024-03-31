@@ -24,7 +24,7 @@
 # 📖 Todo-LIst-App <a name="about-project"></a>
 For the rest of this project, I will be working with a simple todo list manager that is running in Node.js. If you're not familiar with Node.js, don't worry! No real JavaScript experience is needed!
 
-At this point, your development team is quite small and you're simply building an app to prove your MVP (minimum viable product). You want to show how it works and what it's capable of doing without needing to think about how it will work for a large team, multiple developers, etc.
+At this point, your development team is quite small and you're simply building an app to prove your MVP (minimum viable product). You want to show how it works and what it's capable of doing without needing to think about how it will work for a large team, multiple developers etc.
 
 ## 🛠 Built With <a name="built-with"></a>
 
