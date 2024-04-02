@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+6<a name="readme-top"></a>
  <div align="center"><a href="https://github.com/Benawi"><img src="https://github.com/Benawi/Benawi/assets/21217148/de823737-5f7f-4de8-b62e-3fe88c238eab"/></a>
  </div> 
  <div align="center">🛰Todo-LIst-App  🚀</div>
@@ -70,7 +70,7 @@ Install project dependencies with:
 ```
 ### Building the App's Container Image
   In order to build the application, I need to use a Dockerfile. A Dockerfile is simply a text-based script of instructions that is used to create a container 
-  image. If you've created Dockerfiles before, you might see a few flaws in the Dockerfile below. But, don't worry! I'll go over them.
+  image. If you've created Dockerfiles before, you might see a few flaws in the Dockerfile below. But, don't worry! I'll go over them
   
   1. Create a file named Dockerfile in the same folder as the file package.json with the following contents.
   
