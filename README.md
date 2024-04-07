@@ -72,7 +72,7 @@ Install project dependencies with:
   In order to build the application, I need to use a Dockerfile. A Dockerfile is simply a text-based script of instructions that is used to create a container 
   image. If you've created Dockerfiles before, you might see a few flaws in the Dockerfile below. But, don't worry! I'll go over them
   
-  1. Create a file named Dockerfile in the same folder as the file package.json with the following contents.
+  1. Create a file named Dockerfile in the same folder as the file package.json with the following contents
   
     FROM node:18-alpine
     WORKDIR /app
