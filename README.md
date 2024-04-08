@@ -86,7 +86,7 @@ Install project dependencies with:
   2. If you haven't already done so, open a terminal and go to the app directory with the Dockerfile. Now build the container image using the docker build comman
   
   ```
-  docker build -t getting-started .
+  docker build -t getting-started.
   ```
   This command used the Dockerfile to build a new container image. You might have noticed that a lot of "layers" Ire downloaded. This is because I instructed the 
    builder that I wanted to start from the `node:18-alpine image`. But, since I didn't have that on our machine, that image needed to be downloaded.
